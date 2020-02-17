@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##JSON-SERVER
+## JSON-SERVER
 
 create a file "db.json" with:
 
@@ -18,7 +18,7 @@ create a file "db.json" with:
 
 save in path src/
 
-and run :json-server db.son -p 4000
+and run :json-server db.json -p 4000
 
 
 ## Available Scripts
