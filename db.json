@@ -1,0 +1,22 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "qwasdasdasdasdewfse",
+      "precioPlatillo": "-1",
+      "categoria": "bebida",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "897263tyghjv1b 12369 ",
+      "precioPlatillo": "2",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Colegio Cemanqui sc",
+      "precioPlatillo": "234",
+      "categoria": "bebida",
+      "id": 7
+    }
+  ]
+}

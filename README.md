@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##JSON-SERVER
+
+create a file "db.json" with:
+
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "qwasdasdasdasdewfse",
+      "precioPlatillo": "-1",
+      "categoria": "bebida",
+      "id": 3
+    }
+  ]
+}
+
+save in path src/
+
+and run :json-server db.son -p 4000
+
+
 ## Available Scripts
 
 In the project directory, you can run:
