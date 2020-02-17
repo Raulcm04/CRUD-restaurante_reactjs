@@ -11,7 +11,7 @@ create a file "db.json" with:
       "nombrePlatillo": "qwasdasdasdasdewfse",
       "precioPlatillo": "-1",
       "categoria": "bebida",
-      "id": 3
+      "id": 1
     }
   ]
 }
